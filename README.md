@@ -1,4 +1,4 @@
-# Hi 👋, I'm Jacob Lilly
+# Hi 👋, I'm Jacob Lilly :)
 ## About Me
 
 - 🏦 I'm currently working for a state college in Nebraska teaching computer programming
